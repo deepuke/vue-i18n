@@ -1,5 +1,5 @@
 <p align="center"><img width="128px" height="112px" src="./assets/vue-i18n-logo.png" alt="Vue I18n logo"></p>
-<h1 align="center">vue-i18n</h1>
+<h1 align="center">vue-i18n - Testing</h1>
 <p align="center">
   <a href="https://github.com/kazupon/vue-i18n/actions/workflows/ci.yml"><img src="https://github.com/kazupon/vue-i18n/actions/workflows/ci.yml/badge.svg" alt="Test Status"></a>
   <a href="http://badge.fury.io/js/vue-i18n"><img src="https://badge.fury.io/js/vue-i18n.svg" alt="NPM version"></a>
@@ -111,7 +111,7 @@
 
 <br/>
 
-## ⚠️  NOTICE
+## ⚠️ NOTICE
 
 **This repository is for Vue I18n v8.x and Vue 2**
 
@@ -131,16 +131,13 @@ If you want to read Vue I18n v9 docs, See [here](https://vue-i18n.intlify.dev/)
 
 Detailed changes for each release are documented in the [CHANGELOG.md](https://github.com/kazupon/vue-i18n/blob/dev/CHANGELOG.md).
 
-
 ## ❗ Issues
 
 Please make sure to read the [Issue Reporting Checklist](https://github.com/kazupon/vue-i18n/blob/dev/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
-
 ## 💪 Contribution
 
 Please make sure to read the [Contributing Guide](https://github.com/kazupon/vue-i18n/blob/dev/CONTRIBUTING.md) before making a pull request.
-
 
 ## ©️ License
 
